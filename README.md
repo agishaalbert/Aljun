@@ -6,4 +6,4 @@ In this projecct, we are going to build  a classifier that classifies wether a i
 
 Cat                           |Dog
 :-----------------------------|-----------------------------------------
-![](figuress/cat.0.jpg)       | ![](figuress/dgit og.5.jpg)
+![](cat.0.jpg)       | ![](dog.5.jpg)
