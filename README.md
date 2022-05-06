@@ -1,9 +1,2 @@
-# Cat vs. dog Classifier
-
-
-In this projecct, we are going to build  a classifier that classifies wether a image is cat or dog
-
-
-Cat                           |Dog
-:-----------------------------|-----------------------------------------
-![](cat.0.jpg)       | ![](dog.5.jpg)
+# AMMI-BootCamp-Project
+This repo contains codes and presentation for the implementation of a support vector machine with hinge loss function and stochastic gradient descent.
